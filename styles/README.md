@@ -1,3 +1,3 @@
 # Styles
 
-all `.css` files
+In this directory put all `.css` files
