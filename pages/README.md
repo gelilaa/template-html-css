@@ -1,3 +1,3 @@
 # Pages
 
-other HTML pages besides `index.html`
+In this directory put all other HTML pages besides `index.html`
